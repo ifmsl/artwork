@@ -21,7 +21,7 @@ Initial commit consit with the creative work done by:
 ## License
 
 This project is licensed under the Attribution-NonCommercial-ShareAlike
-CC BY-NC-SA License - see the [LICENSE.md](LICENSE.md) file for details
+CC BY-NC-SA License - see the [http://creativecommons.org/licenses/by-nc-sa/4.0](http://creativecommons.org/licenses/by-nc-sa/4.0) file for details
 
 
 
