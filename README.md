@@ -1,5 +1,9 @@
 # artwork
-Artwork of Internet Freedom Movement in Sri Lanka
+Artwork of Internet Freedom Movement in Sri Lanka.
+
+Internet Freedom Movement is a fully community driven and independent project in Sri Lanka. We highly belive in Internet Freedom.
+
+We are an independent organization within Sri Lanka and there is no parent organization locally. 
 
 
 ## Contributing
